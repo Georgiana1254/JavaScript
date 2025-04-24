@@ -1,0 +1,1 @@
+Acest proiect este un WeatherApp în care poți afla anumite caracterstici ale vremii în funcție de orașul pe care îl tastezi. Acest proiect folosește API-ul OpenWeather pentru a obține informațiile meteo.
